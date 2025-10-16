@@ -1,3 +1,5 @@
+# This Project is made by Mostapha El Ansari & Aymane Dhimen
+
 # TP 1 NLP — Fine-tuning BERT for Text Classification with PyTorch
 
 ## Description
